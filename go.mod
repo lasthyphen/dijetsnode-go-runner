@@ -1,4 +1,4 @@
-module github.com/lasthyphen/dijetsnodego-runner
+module github.com/lasthyphen/dijetsnode-go-runner
 
 go 1.18
 
