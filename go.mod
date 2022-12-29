@@ -5,8 +5,8 @@ go 1.18
 require (
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.14.0
-	github.com/lasthyphen/coreth v0.13.0
-	github.com/lasthyphen/dijetsnodego v1.8.11
+	github.com/lasthyphen/coreth v0.16.0
+	github.com/lasthyphen/dijetsnodego v1.8.14
 	github.com/onsi/ginkgo/v2 v2.6.0
 	github.com/onsi/gomega v1.24.1
 	github.com/otiai10/copy v1.9.0
@@ -79,7 +79,7 @@ require (
 	github.com/jrick/logrotate v1.0.0 // indirect
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/kkdai/bstream v1.0.0 // indirect
-	github.com/lasthyphen/djiets-ledger-go v0.0.16 // indirect
+	github.com/lasthyphen/djiets-ledger-go v0.0.19 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
