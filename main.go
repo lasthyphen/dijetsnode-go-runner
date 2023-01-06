@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/lasthyphen/dijetsnodego-runner/cmd"
+	"github.com/lasthyphen/dijetsnode-go-runner/cmd"
 )
 
 func main() {

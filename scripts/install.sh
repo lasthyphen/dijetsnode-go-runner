@@ -3,7 +3,7 @@ set -e
 
 PROJECT_NAME=avalanche-network-runner
 OWNER=ava-labs
-REPO="dijetsnodego-runner"
+REPO="dijetsnode-go-runner"
 BINARY=avalanche-network-runner
 FORMAT=tar.gz
 PREFIX="$OWNER/$REPO"

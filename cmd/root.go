@@ -7,16 +7,16 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lasthyphen/dijetsnodego-runner/cmd/control"
-	"github.com/lasthyphen/dijetsnodego-runner/cmd/ping"
-	"github.com/lasthyphen/dijetsnodego-runner/cmd/server"
+	"github.com/lasthyphen/dijetsnode-go-runner/cmd/control"
+	"github.com/lasthyphen/dijetsnode-go-runner/cmd/ping"
+	"github.com/lasthyphen/dijetsnode-go-runner/cmd/server"
 	"github.com/spf13/cobra"
 )
 
 var Version = ""
 
 var rootCmd = &cobra.Command{
-	Use:        "dijetsnodego-runner",
+	Use:        "dijetsnode-go-runner",
 	Short:      "avalanche-network-runner commands",
 	SuggestFor: []string{"network-runner"},
 	Version:    Version,

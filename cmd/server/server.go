@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/server"
-	"github.com/lasthyphen/dijetsnodego-runner/utils/constants"
+	"github.com/lasthyphen/dijetsnode-go-runner/server"
+	"github.com/lasthyphen/dijetsnode-go-runner/utils/constants"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"

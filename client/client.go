@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/local"
-	"github.com/lasthyphen/dijetsnodego-runner/rpcpb"
+	"github.com/lasthyphen/dijetsnode-go-runner/local"
+	"github.com/lasthyphen/dijetsnode-go-runner/rpcpb"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"

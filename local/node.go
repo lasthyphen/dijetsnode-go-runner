@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/api"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node/status"
+	"github.com/lasthyphen/dijetsnode-go-runner/api"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node/status"
 	"github.com/lasthyphen/dijetsnodego/ids"
 	"github.com/lasthyphen/dijetsnodego/message"
 	"github.com/lasthyphen/dijetsnodego/network/peer"

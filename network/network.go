@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
 )
 
 var (

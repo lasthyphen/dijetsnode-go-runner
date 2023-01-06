@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
 	"github.com/lasthyphen/dijetsnodego/ids"
 	"github.com/lasthyphen/dijetsnodego/message"
 	"github.com/lasthyphen/dijetsnodego/network/peer"

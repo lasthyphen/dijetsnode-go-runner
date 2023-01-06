@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
 	"github.com/lasthyphen/dijetsnodego/config"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"
 	"go.uber.org/zap"

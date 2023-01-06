@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/lasthyphen/dijetsnodego-runner;rpcpb";
+option go_package = "github.com/lasthyphen/dijetsnode-go-runner;rpcpb";
 
 package rpcpb;
 

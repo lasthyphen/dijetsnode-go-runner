@@ -7,7 +7,7 @@ import (
 
 	mock "github.com/stretchr/testify/mock"
 
-	status "github.com/lasthyphen/dijetsnodego-runner/network/node/status"
+	status "github.com/lasthyphen/dijetsnode-go-runner/network/node/status"
 
 	testing "testing"
 )

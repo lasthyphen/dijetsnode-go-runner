@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	api "github.com/lasthyphen/dijetsnodego-runner/api"
+	api "github.com/lasthyphen/dijetsnode-go-runner/api"
 	admin "github.com/lasthyphen/dijetsnodego/api/admin"
 
 	avm "github.com/lasthyphen/dijetsnodego/vms/avm"

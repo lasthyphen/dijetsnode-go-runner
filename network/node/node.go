@@ -6,8 +6,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/lasthyphen/dijetsnodego-runner/api"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node/status"
+	"github.com/lasthyphen/dijetsnode-go-runner/api"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node/status"
 	"github.com/lasthyphen/dijetsnodego/config"
 	"github.com/lasthyphen/dijetsnodego/ids"
 	"github.com/lasthyphen/dijetsnodego/network/peer"

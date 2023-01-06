@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
-	"github.com/lasthyphen/dijetsnodego-runner/utils"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/utils"
 	"github.com/lasthyphen/dijetsnodego/genesis"
 	"github.com/lasthyphen/dijetsnodego/ids"
 	"github.com/lasthyphen/dijetsnodego/utils/constants"

@@ -9,8 +9,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/local"
-	"github.com/lasthyphen/dijetsnodego-runner/network"
+	"github.com/lasthyphen/dijetsnode-go-runner/local"
+	"github.com/lasthyphen/dijetsnode-go-runner/network"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"
 	"go.uber.org/zap"
 )

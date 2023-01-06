@@ -7,9 +7,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/client"
-	"github.com/lasthyphen/dijetsnodego-runner/utils/constants"
-	"github.com/lasthyphen/dijetsnodego-runner/ux"
+	"github.com/lasthyphen/dijetsnode-go-runner/client"
+	"github.com/lasthyphen/dijetsnode-go-runner/utils/constants"
+	"github.com/lasthyphen/dijetsnode-go-runner/ux"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"
 	"github.com/spf13/cobra"
 )

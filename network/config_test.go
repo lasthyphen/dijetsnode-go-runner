@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/network"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
 	"github.com/stretchr/testify/assert"
 )
 

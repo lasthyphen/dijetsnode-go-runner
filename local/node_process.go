@@ -8,9 +8,9 @@ import (
 	"os/exec"
 	"sync"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node/status"
-	"github.com/lasthyphen/dijetsnodego-runner/utils"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node/status"
+	"github.com/lasthyphen/dijetsnode-go-runner/utils"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"
 	"github.com/shirou/gopsutil/process"
 	"go.uber.org/zap"

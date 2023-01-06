@@ -8,9 +8,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/local"
-	"github.com/lasthyphen/dijetsnodego-runner/network"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/local"
+	"github.com/lasthyphen/dijetsnode-go-runner/network"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
 	"github.com/lasthyphen/dijetsnodego/config"
 	"github.com/lasthyphen/dijetsnodego/staking"
 	"github.com/lasthyphen/dijetsnodego/utils/logging"

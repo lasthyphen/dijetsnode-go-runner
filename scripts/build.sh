@@ -21,4 +21,4 @@ fi
 # to pass this flag to all child processes spawned by the shell.
 export CGO_CFLAGS="-O -D__BLST_PORTABLE__"
 
-go build -v -ldflags="-X 'github.com/lasthyphen/dijetsnodego-runner/cmd.Version=$VERSION'" -o $OUTPUT/avalanche-network-runner
+go build -v -ldflags="-X 'github.com/lasthyphen/dijetsnode-go-runner/cmd.Version=$VERSION'" -o $OUTPUT/avalanche-network-runner

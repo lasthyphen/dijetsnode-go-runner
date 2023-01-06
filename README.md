@@ -14,7 +14,7 @@ This tool may be especially useful for development and testing.
 To download a binary for the latest release, run:
 
 ```sh
-curl -sSfL https://raw.githubusercontent.com/lasthyphen/dijetsnodego-runner/main/scripts/install.sh | sh -s
+curl -sSfL https://raw.githubusercontent.com/lasthyphen/dijetsnode-go-runner/main/scripts/install.sh | sh -s
 ```
 
 The binary will be installed inside the `~/bin` directory.
@@ -36,7 +36,7 @@ Requires golang to be installed on the system ([https://go.dev/doc/install](http
 ### Download
 
 ```sh
-git clone https://github.com/lasthyphen/dijetsnodego-runner.git
+git clone https://github.com/lasthyphen/dijetsnode-go-runner.git
 ```
 
 ### Build

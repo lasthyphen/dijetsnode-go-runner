@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego-runner/network"
-	"github.com/lasthyphen/dijetsnodego-runner/network/node"
-	"github.com/lasthyphen/dijetsnodego-runner/utils"
+	"github.com/lasthyphen/dijetsnode-go-runner/network"
+	"github.com/lasthyphen/dijetsnode-go-runner/network/node"
+	"github.com/lasthyphen/dijetsnode-go-runner/utils"
 	"github.com/lasthyphen/dijetsnodego/api/admin"
 	"github.com/lasthyphen/dijetsnodego/config"
 	"github.com/lasthyphen/dijetsnodego/genesis"
